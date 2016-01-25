@@ -1,0 +1,30 @@
+p, li
+{font-family: Calibri, sans-serif}
+
+#experience p .date 
+{font-weight: bold}
+
+
+li
+{
+list-style-type: square;
+}
+
+#contact-info
+{
+	position: relative;
+	left: 50%;
+	line-height: 0.30;
+}
+
+h2
+{
+	border-style: dotted;
+	background-color: #E1E6ED;
+	padding-left: 10px;
+}
+
+.xxx
+{
+	color: red;
+}
